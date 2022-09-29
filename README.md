@@ -1,0 +1,1 @@
+ This app is usually used for Daily grocery list. user can tick once he/she got item from list and selected item will be appear in end of list with gray color. you can select, delete item from list.you will be see logged user on top left corner. once you log out  so no one can see you list.  
